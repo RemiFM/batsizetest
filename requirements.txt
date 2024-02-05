@@ -1,0 +1,7 @@
+streamlit
+scipy
+matplotlib
+htbuilder
+altair
+casadi
+openpyxl
