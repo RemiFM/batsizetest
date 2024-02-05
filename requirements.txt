@@ -5,3 +5,4 @@ htbuilder
 altair
 casadi
 openpyxl
+seaborn
